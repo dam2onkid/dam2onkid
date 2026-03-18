@@ -7,7 +7,7 @@ Always looking for ways to make things smarter and more useful.<br/>
 🐱 Also a cat person.
 </p>
 
-<h2>🚀 Projects</h2>
+<h2>Projects</h2>
 
 <table>
   <tr>
