@@ -18,6 +18,10 @@ Always looking for ways to make things smarter and more useful.<br/>
     <td><a href="https://www.trysoly.com">Soly</a></td>
     <td>Mood journaling, AI reports, and emotion-based artwork</td>
   </tr>
+    <tr>
+    <td><a href="https://www.pushslayer.com">PushSlayer</a></td>
+    <td>Turn Every Push-up into a Sword Stroke.</td>
+  </tr>
   <tr>
     <td><a href="https://www.trypassman.com">Passman</a></td>
     <td>Decentralized password manager (Sui, Walrus, Seal)</td>
